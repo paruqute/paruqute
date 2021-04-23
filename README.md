@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Parvathy Chandran
 
 
-**paruqute/paruqute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Junior Software Engineer
 
 - 🔭 I’m currently working in Zebracross India Technologies 
 - 🌱 I’m currently learning Flutter 
