@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Parvathy Chandran
 
 
-### I am a Junior Software Engineer
+### I am a Associate Software Engineer
 
-- 🔭 I’m currently working in Folea Studio PVT LTD
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working at UVJ Technologies PVT LTD
+- 🌱 I’m intrested in Flutter 
 - 📫 How to reach me: <a href="mailto:parvathychandran.t@gmail.com" alt="Contact me"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></code></a>
 &nbsp;<a href="https://www.linkedin.com/in/parvathy-chandran-t-956b89193/" alt="Linkedin"><code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></code></a>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Hit a star <a href="https://github.com/paruqute/"><img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a> 
